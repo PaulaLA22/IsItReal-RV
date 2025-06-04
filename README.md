@@ -21,30 +21,32 @@ Todos los modelos 3D han sido desarrollados por mí. Si se quieren hacer uso de 
 Otros assets como el SkyLight se ha escogido de Unreal.
 
 #### Sonido
-##### Project/Content/IsItReal/Assets/Music/background_sound.uasset
+Estos assets se hayan en la dirección "Project/Content/IsItReal/Assets/Music/". Se han convertido a .uasset para su uso y facilitar la subida al repositorio.
+
+##### background_sound.uasset
 * <a href="https://freesound.org/people/Dwy/sounds/581829/">Tape No. R-S 5 (Lo-fi loop)</a> by <a href="https://freesound.org/people/Dwy/">Dwy</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a><br>
 * <a href="https://freesound.org/people/felineterror/sounds/581642/">R-S 5</a> by <a href="https://freesound.org/people/felineterror/">felineterror</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-##### Project/Content/IsItReal/Assets/Music/571502__kagateni__cute1.uasset
+##### 571502__kagateni__cute1.uasset
 * <a href="https://freesound.org/people/Kagateni/sounds/571502/">Cute1.mp3</a> by <a href="https://freesound.org/people/Kagateni/">Kagateni</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
 
-##### Project/Content/IsItReal/Assets/Music/658270__lilmati__retro-spare-or-eat-cute-creature.uasset
+##### 658270__lilmati__retro-spare-or-eat-cute-creature.uasset
 
 * <a href="https://freesound.org/people/LilMati/sounds/658270/">Retro, Spare Or Eat Cute Creature.wav</a> by <a href="https://freesound.org/people/LilMati/">LilMati</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-#### Project/Content/IsItReal/Assets/Music/546081__stavsounds__correct3.uasset
+##### 546081__stavsounds__correct3.uasset
 
 * <a href="https://freesound.org/people/StavSounds/sounds/546081/">correct3.wav</a> by <a href="https://freesound.org/people/StavSounds/">StavSounds</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-#### Project/Content/IsItReal/Assets/Music/351563__bertrof__game-sound-incorrect-with-delay.uasset
+##### 351563__bertrof__game-sound-incorrect-with-delay.uasset
 
 * <a href="https://freesound.org/people/Bertrof/sounds/351563/">Game Sound Incorrect With Delay</a> by <a href="https://freesound.org/people/Bertrof/">Bertrof</a> | License: <a href="http://creativecommons.org/licenses/by/3.0/">Attribution 3.0</a>
 
-#### 588234__mehraniiii__win.wav
+##### 588234__mehraniiii__win.wav
 
 * <a href="https://freesound.org/people/mehraniiii/sounds/588234/">win.wav</a> by <a href="https://freesound.org/people/mehraniiii/">mehraniiii</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-#### 362206__taranp__horn_fail_wahwah_1.wav
+##### 362206__taranp__horn_fail_wahwah_1.wav
 
 * <a href="https://freesound.org/people/TaranP/sounds/362206/">horn_fail_wahwah_1.wav</a> by <a href="https://freesound.org/people/TaranP/">TaranP</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
