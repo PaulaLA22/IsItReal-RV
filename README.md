@@ -1,13 +1,15 @@
 # IsItReal
 
-En esta experiencia de realidad mixta en gravedad 0 tienes un único propósito: contar cuantas teteras hay en la habitación. Para ello, deberás seleccionar una de las cartas con el número que te proponen, ¿podrás cumplir con el objetivo?
+En esta experiencia de realidad mixta en **gravedad 0** tienes un único propósito: contar cuantas teteras hay en la habitación. Para ello, deberás seleccionar una de las cartas con el número que te proponen, ¿podrás cumplir con el objetivo?
 
 ### Cómo jugar
 
 > **AVISO:** Al hacer uso de *herramientas experimentales*, puede que la aplicación se cierre al iniciar la experiencia o al volver a escanear la sala (actualizarla). Si esto sucede, vuelve a abrir la aplicación sin actualizar la habitación desde la misma, puedes hacerlo desde la configuración de las gafas.
 Si aparece el mensaje "Could not load MR Scene Model.", puede que Unreal falle en cargar la escena.
 
-Los controles son sencillos: se puede interactuar con los objetos con tu mano izquierda, pudiendo coger los objetos virtuales con el dedo índice y el pulgar (pinch).
+Los controles son sencillos: se puede interactuar con los objetos con únicamente tu mano izquierda (para más dificultad), lo que te permite coger los objetos virtuales con el dedo índice y el pulgar (pinch).
+
+Deberás contar el número de teteras reales, por lo que te recomiendo cogerlas para probar su veracidad.
 
 ![image](Video/pinch.png)
 
