@@ -42,11 +42,11 @@ Estos assets se hayan en la dirección "Project/Content/IsItReal/Assets/Music/".
 
 * <a href="https://freesound.org/people/Bertrof/sounds/351563/">Game Sound Incorrect With Delay</a> by <a href="https://freesound.org/people/Bertrof/">Bertrof</a> | License: <a href="http://creativecommons.org/licenses/by/3.0/">Attribution 3.0</a>
 
-##### 588234__mehraniiii__win.wav
+##### 588234__mehraniiii__win.uasset
 
 * <a href="https://freesound.org/people/mehraniiii/sounds/588234/">win.wav</a> by <a href="https://freesound.org/people/mehraniiii/">mehraniiii</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-##### 362206__taranp__horn_fail_wahwah_1.wav
+##### 362206__taranp__horn_fail_wahwah_1.uasset
 
 * <a href="https://freesound.org/people/TaranP/sounds/362206/">horn_fail_wahwah_1.wav</a> by <a href="https://freesound.org/people/TaranP/">TaranP</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
