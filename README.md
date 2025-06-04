@@ -57,13 +57,14 @@ P: **¿Qué dificultades has encontrado durante el desarrollo? ¿Cómo las has r
 La principal dificultad del desarrollo de esta experiencia ha sido el trabajar con herramientas experimentales. La realidad mixta de Meta va evolucionando y actualizandose constantemente en el momento de la creación de este proyecto, impidiendo que sea un proceso suave.
 Para resolver estos problemas, he optado por quedarme con una versión específica del plugin MRUK e intentar adaptarlo a las necesidades de las gafas.
 
-Un problema que no he logrado aplacar ha sido el de la carga de escena. Hay veces que funciona y otras veces no, desconozco si ha sido por mi implementación o por propio Unreal.
+Un problema que no he logrado aplacar ha sido el de la carga de escena. Hay veces que funciona y otras veces no, desconozco si ha sido por mi implementación o por las propias herramientas.
 
 
 ### Siguientes pasos
 
 De cara a futuro, me gustaría añadir más elementos virtuales a la experiencia, además de añadir más variedad de "teteras", como por ejemplo:
 
+* Conseguir cargar el "Global Mesh" de la escena
 * Teteras reales pueden dejar caer té
 * Tetera fantasma que aparece de reojo
 * Diferentes texturas para las teteras
