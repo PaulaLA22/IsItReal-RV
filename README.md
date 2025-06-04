@@ -14,7 +14,37 @@ Los controles son sencillos: se puede interactuar con los objetos con tu mano iz
 Cuando sepas la respuesta a la pregunta que se te propone, deberás escoger la carta con la respuesta y dejarla sobre la mesa. ¡TEN CUIDADO! Algunos objetos no se consideran REALES, deberás averiguar si lo son.
 
 ### Licencias
-Todos los assets han sido desarrollados por mí. Si se quieren hacer uso de ellos, contactad conmigo.
+Todos los modelos 3D han sido desarrollados por mí. Si se quieren hacer uso de ellos, contactad conmigo.
+
+Otros assets como el SkyLight se ha escogido de Unreal.
+
+#### Sonido
+##### background_sound.wav 
+* <a href="https://freesound.org/people/Dwy/sounds/581829/">Tape No. R-S 5 (Lo-fi loop)</a> by <a href="https://freesound.org/people/Dwy/">Dwy</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a><br>
+* <a href="https://freesound.org/people/felineterror/sounds/581642/">R-S 5</a> by <a href="https://freesound.org/people/felineterror/">felineterror</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+
+##### 571502__kagateni__cute1.mp3
+* <a href="https://freesound.org/people/Kagateni/sounds/571502/">Cute1.mp3</a> by <a href="https://freesound.org/people/Kagateni/">Kagateni</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
+
+##### 658270__lilmati__retro-spare-or-eat-cute-creature.mp3
+
+* <a href="https://freesound.org/people/LilMati/sounds/658270/">Retro, Spare Or Eat Cute Creature.wav</a> by <a href="https://freesound.org/people/LilMati/">LilMati</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+
+#### 546081__stavsounds__correct3.wav
+
+* <a href="https://freesound.org/people/StavSounds/sounds/546081/">correct3.wav</a> by <a href="https://freesound.org/people/StavSounds/">StavSounds</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+
+#### 351563__bertrof__game-sound-incorrect-with-delay.wav
+
+* <a href="https://freesound.org/people/Bertrof/sounds/351563/">Game Sound Incorrect With Delay</a> by <a href="https://freesound.org/people/Bertrof/">Bertrof</a> | License: <a href="http://creativecommons.org/licenses/by/3.0/">Attribution 3.0</a>
+
+#### 588234__mehraniiii__win.wav
+
+* <a href="https://freesound.org/people/mehraniiii/sounds/588234/">win.wav</a> by <a href="https://freesound.org/people/mehraniiii/">mehraniiii</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
+
+#### 362206__taranp__horn_fail_wahwah_1.wav
+
+* <a href="https://freesound.org/people/TaranP/sounds/362206/">horn_fail_wahwah_1.wav</a> by <a href="https://freesound.org/people/TaranP/">TaranP</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
 ## Entrevista
 
