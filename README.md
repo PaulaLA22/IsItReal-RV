@@ -21,22 +21,22 @@ Todos los modelos 3D han sido desarrollados por mí. Si se quieren hacer uso de 
 Otros assets como el SkyLight se ha escogido de Unreal.
 
 #### Sonido
-##### background_sound.wav 
+##### Project/Content/IsItReal/Assets/Music/background_sound.uasset
 * <a href="https://freesound.org/people/Dwy/sounds/581829/">Tape No. R-S 5 (Lo-fi loop)</a> by <a href="https://freesound.org/people/Dwy/">Dwy</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a><br>
 * <a href="https://freesound.org/people/felineterror/sounds/581642/">R-S 5</a> by <a href="https://freesound.org/people/felineterror/">felineterror</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-##### 571502__kagateni__cute1.mp3
+##### Project/Content/IsItReal/Assets/Music/571502__kagateni__cute1.uasset
 * <a href="https://freesound.org/people/Kagateni/sounds/571502/">Cute1.mp3</a> by <a href="https://freesound.org/people/Kagateni/">Kagateni</a> | License: <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0</a>
 
-##### 658270__lilmati__retro-spare-or-eat-cute-creature.mp3
+##### Project/Content/IsItReal/Assets/Music/658270__lilmati__retro-spare-or-eat-cute-creature.uasset
 
 * <a href="https://freesound.org/people/LilMati/sounds/658270/">Retro, Spare Or Eat Cute Creature.wav</a> by <a href="https://freesound.org/people/LilMati/">LilMati</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-#### 546081__stavsounds__correct3.wav
+#### Project/Content/IsItReal/Assets/Music/546081__stavsounds__correct3.uasset
 
 * <a href="https://freesound.org/people/StavSounds/sounds/546081/">correct3.wav</a> by <a href="https://freesound.org/people/StavSounds/">StavSounds</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
-#### 351563__bertrof__game-sound-incorrect-with-delay.wav
+#### Project/Content/IsItReal/Assets/Music/351563__bertrof__game-sound-incorrect-with-delay.uasset
 
 * <a href="https://freesound.org/people/Bertrof/sounds/351563/">Game Sound Incorrect With Delay</a> by <a href="https://freesound.org/people/Bertrof/">Bertrof</a> | License: <a href="http://creativecommons.org/licenses/by/3.0/">Attribution 3.0</a>
 
