@@ -4,6 +4,9 @@
 # Ignore project apks
 Package/Android_ASTC/*
 
+# Ignore Video
+Video/*.mp4
+
 # Ignore sound files
 Project/Content/IsItReal/Assets/Music/*.wav
 Project/Content/IsItReal/Assets/Music/*.mp3
