@@ -1,3 +1,3 @@
 # Descarga
 
-Para descargar el APK del juego, se deberá descargar desde el siguiente [enlace](https://drive.google.com/drive/folders/1FSO-1N54R-7SpwmGk86_NhqBSZ5pyx3R?usp=sharing).
+Para descargar el APK del juego, se deberá descargar desde el siguiente [enlace](https://drive.google.com/file/d/1sxCJm-RNaoThgTQcf8y23gcwGmd0JvOq/view).
