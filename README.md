@@ -4,7 +4,7 @@ En esta experiencia de realidad mixta en **gravedad 0** tienes un único propós
 
 ### Cómo jugar
 
-> **AVISO:** Al hacer uso de *herramientas experimentales*, puede que la aplicación dé algunos problemas. Desaconsejo actualizar/crear una nueva habitación desde la propia experiencia, ya que no puede cargar la nueva habitación desde la aplicación.
+> **AVISO:** Al hacer uso de *herramientas experimentales*, puede que la aplicación dé algunos problemas. Desaconsejo actualizar/crear una nueva habitación desde la propia experiencia, ya que no puede cargar la nueva habitación desde la aplicación. (Aun que creo haber solucionado este problema en la última versión).
 
 > Si aparece el mensaje "**Could not load MR Scene Model.**", será porque no se ha encontrado el modelo de la sala. Para evitarlo y hacer que funcione, deberás escanear y guardar la habitación desde la configuración y volver a iniciar la experiencia.
 
@@ -12,7 +12,7 @@ En esta experiencia de realidad mixta en **gravedad 0** tienes un único propós
 
 Los controles son sencillos: se puede interactuar con los objetos y el menú inicial, deberás hacerlo únicamente tu mano izquierda (para más dificultad), lo que te permite coger los objetos virtuales con el dedo índice y el pulgar (pinch).
 
-![image](Video/pinch.png)
+![image](Video/pinch.png) (Este gráfico ha sido dibujado por mí)
 
 Al iniciar la experiencia, se te presentará un menú de inicio para que compruebes si la habitación virtual es parecida a la real, en el caso de que hayan objetos o muebles raros, puedes actualizarlo desde "No, reintentar captura".
 
@@ -34,7 +34,7 @@ Otros assets como el SkyLight se ha escogido de Unreal.
 #### Sonido
 Estos assets se hayan en la dirección "Project/Content/IsItReal/Assets/Music/". Se han convertido a .uasset para su uso y facilitar la subida al repositorio.
 
-##### background_sound.uasset
+##### background_sound.uasset (581829__dwy__tape-no)
 * <a href="https://freesound.org/people/Dwy/sounds/581829/">Tape No. R-S 5 (Lo-fi loop)</a> by <a href="https://freesound.org/people/Dwy/">Dwy</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a><br>
 * <a href="https://freesound.org/people/felineterror/sounds/581642/">R-S 5</a> by <a href="https://freesound.org/people/felineterror/">felineterror</a> | License: <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons 0</a>
 
@@ -70,7 +70,9 @@ P: **¿Qué dificultades has encontrado durante el desarrollo? ¿Cómo las has r
 La principal dificultad del desarrollo de esta experiencia ha sido el trabajar con herramientas experimentales. La realidad mixta de Meta va evolucionando y actualizandose constantemente en el momento de la creación de este proyecto, impidiendo que sea un proceso suave.
 Para resolver estos problemas, he optado por quedarme con una versión específica del plugin MRUK e intentar adaptarlo a las necesidades de la aplicación y gafas.
 
-Un problema que no he logrado aplacar ha sido el de la carga de escena, **debe** haber una **habitación escaneada previamente** a empezar la experiencia.
+Un problema que no he logrado aplacar ha sido el de la carga de escena, **debe** haber una **habitación escaneada previamente** a empezar la experiencia. Aun que creo haber aplacado este problema, a veces parece que le cuesta cargar y sale de la aplicación, seguiré investigando sobre el tema más adelante.
+
+Este último problema también ha derivado a no poder cargar el "Global Mesh" de la escena para utilizarlo para las colisiones, es por ello que no son fieles a la habitación guardada en las gafas en su totalidad. Sólo se toma en cuenta y se considera colisionable los muebles registrados (Mesas, sofás, camas...) puesto que el propio actor lo guarda así (son simples cubos con diferentes escalas, planos y no irregulares). 
 
 
 ### Siguientes pasos
